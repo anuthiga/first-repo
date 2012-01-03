@@ -8,6 +8,7 @@
         <?php
         // put your code here
         echo "Hello world";
+        echo "My name is anuthiga";
         ?>
     </body>
 </html>
